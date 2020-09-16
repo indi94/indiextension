@@ -1,0 +1,12 @@
+{
+"manifest_version": 2,
+"name": "chrome extension",
+"description": "1.0.0",
+"icones": {"128": ""},
+"brower_action": {
+    "default_icon":"indi.png",
+    "default_popup": "popup.html"
+},
+"permissions":["activeTab"]
+
+}
